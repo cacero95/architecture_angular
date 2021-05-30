@@ -1,0 +1,9 @@
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.nav-item img {
+    width: 30px;
+    filter: invert(1);
+}

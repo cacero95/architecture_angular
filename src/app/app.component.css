@@ -1,0 +1,9 @@
+.logo_2014 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.logo_2014 div {
+    padding: 20px;
+}
